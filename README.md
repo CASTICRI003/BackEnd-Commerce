@@ -12,7 +12,7 @@ You type npm install into the terminal to install them all, run mysql and source
 
 
 ## Usage
-This link will show you how it works. https://drive.google.com/file/d/1IzyU4phnN_uAYQH3BmtS95cE227CZtFv/view
+These links will show you how it works. https://drive.google.com/file/d/1IzyU4phnN_uAYQH3BmtS95cE227CZtFv/view              https://drive.google.com/file/d/1CwPj5kojKGaOhsuBxfWP9kMsHvAMKb5p/view
 
 ## Credits
 Cristian Castillo
